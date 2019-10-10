@@ -1,1 +1,1 @@
-tekst fra stationær
+tekst fra stationær!
