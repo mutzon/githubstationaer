@@ -1,1 +1,0 @@
-dette er min branch database med en ny fil kaldet db.md
