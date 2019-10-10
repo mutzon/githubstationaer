@@ -1,0 +1,1 @@
+tekst fra stationær
